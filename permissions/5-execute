@@ -1,2 +1,2 @@
 #!/bin/bash
-600 hello
+chmod 600 hello
