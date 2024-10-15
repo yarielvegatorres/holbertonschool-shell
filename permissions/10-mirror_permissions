@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x hello olleh
+sudo chmod 755 hello/
